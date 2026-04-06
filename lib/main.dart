@@ -1,7 +1,6 @@
 // ignore_for_file: deprecated_member_use
 import 'package:flutter/material.dart';
 import 'package:flutter_application_2/pages/login.dart';
-// import 'package:flutter_application_2/pages/subjects.dart';
 
 void main() {
   runApp(const MyApp());

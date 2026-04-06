@@ -3,8 +3,6 @@ import 'package:flutter/services.dart';
 import 'dart:math' as math;
 import 'package:flutter_application_2/pages/subjects.dart';
 
-// ==================== REUSABLE WIDGETS (Match your theme) ====================
-
 class GlassContainer extends StatelessWidget {
   final Widget child;
   final EdgeInsetsGeometry? padding;
