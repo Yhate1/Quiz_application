@@ -16,7 +16,7 @@ class _LoginState extends State<Login> {
   bool _obscurePassword = true;
   bool _showError = false;
 
-  final String _validName = 'ali';
+  final String _validName = '123';
   final String _validPass = '123';
 
   void _loginCheck() {
